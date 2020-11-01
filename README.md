@@ -9,4 +9,4 @@ Procedure to use :-
 5.) just type git clone paste copied link here
 6.) Downloading will start automatically.
  >All the credits belong to there real owner , All the packages are there on internet( Some on github , while other on some webside ).
-# My idea behind this repo is to provide a single point access of most important unity packages.
+# My idea behind this repo is to provide a single point access of most important unity packages/GameObjects.
