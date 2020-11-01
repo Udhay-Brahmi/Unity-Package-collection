@@ -1,6 +1,7 @@
-# Unity-Package-collection
+# Unity-Package-collection.
 This repo contains most of the package's i used while learning Game development as well as Augmented reality.
 As its a public repo , so feel free to use as well as add any package if you have any.
+During my early learning stages, I was always in found of a repo which will fullfill all my package demand.To solve this i created one.
 Procedure to use :-
 1.) Fork repo.
 2.) Copy link from clone option after fork.
